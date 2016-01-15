@@ -1,0 +1,10 @@
+div{
+	display: block;
+	height: 100px;
+}
+.text1,.text3{
+	background-color: yellow;
+}
+.text2{
+	background-color: red;
+}
